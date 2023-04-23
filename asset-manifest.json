@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a470cf8.css",
+    "main.js": "/static/js/main.9114d0b0.js",
+    "static/js/129.5d597d48.chunk.js": "/static/js/129.5d597d48.chunk.js",
+    "static/js/787.86ecbcf9.chunk.js": "/static/js/787.86ecbcf9.chunk.js",
+    "static/media/h1.png": "/static/media/h1.7dc8c78603d82d1bc289.png",
+    "static/media/h2.png": "/static/media/h2.7b4c3335a236f7d5520b.png",
+    "static/media/h3.png": "/static/media/h3.21868eb95248c54aaf7f.png",
+    "static/media/hc3.png": "/static/media/hc3.9049665011d874c85301.png",
+    "static/media/hc2.png": "/static/media/hc2.6f02dd2213ea2e35ad87.png",
+    "static/media/hc1.png": "/static/media/hc1.c85cfc8d261c2720a7a8.png",
+    "static/media/hc8.png": "/static/media/hc8.3f22be739f8bfa2e6fef.png",
+    "static/media/hc7.png": "/static/media/hc7.768e5b91e9810e4f92ed.png",
+    "static/media/hc9.png": "/static/media/hc9.99e161d50e27c03d150c.png",
+    "static/media/hc5.png": "/static/media/hc5.1657eaef5d7468c10867.png",
+    "static/media/hc4.png": "/static/media/hc4.e836617e4796b8105daa.png",
+    "static/media/hc6.png": "/static/media/hc6.d35b84a73ce6a6531f9a.png",
+    "static/media/pp11.png": "/static/media/pp11.ae521403d33773ce5ef5.png",
+    "static/media/logo.png": "/static/media/logo.62badc880aa1b054b7e7.png",
+    "static/media/pp10.png": "/static/media/pp10.502bdb7f10ca6d744772.png",
+    "static/media/img.jpeg": "/static/media/img.9d31423eeec8df3ba9cf.jpeg",
+    "static/media/pp12.png": "/static/media/pp12.2044a469d7a6100fc771.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.9a470cf8.css.map": "/static/css/main.9a470cf8.css.map",
+    "main.9114d0b0.js.map": "/static/js/main.9114d0b0.js.map",
+    "129.5d597d48.chunk.js.map": "/static/js/129.5d597d48.chunk.js.map",
+    "787.86ecbcf9.chunk.js.map": "/static/js/787.86ecbcf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a470cf8.css",
+    "static/js/main.9114d0b0.js"
+  ]
+}
